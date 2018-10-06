@@ -1,0 +1,44 @@
+<taches>
+<tache>
+<id>0</id>
+<titre>Projet Java</titre>
+<description>un pojet  JavaFX </description>
+<beforeTime>2017-12-14T00:00</beforeTime>
+<status>0</status>
+</tache>
+<tache>
+<id>0</id>
+<titre>projet system</titre>
+<description>python et socket</description>
+<beforeTime>2017-12-15T00:00</beforeTime>
+<status>1</status>
+</tache>
+<tache>
+<id>0</id>
+<titre>javafx</titre>
+<description>invite de commande  cmd</description>
+<beforeTime>2017-12-22T00:00</beforeTime>
+<status>1</status>
+</tache>
+<tache>
+<id>0</id>
+<titre>Monta</titre>
+<description>monta ya fassed </description>
+<beforeTime>2017-12-16T00:00</beforeTime>
+<status>1</status>
+</tache>
+<tache>
+<id>0</id>
+<titre>revision</titre>
+<description>reviser pour les examens </description>
+<beforeTime>2017-12-29T00:00</beforeTime>
+<status>1</status>
+</tache>
+<tache>
+<id>0</id>
+<titre>publier dans guit</titre>
+<description>il faut ajouter le code au guit pour améliorer mes chances de pfe a l'etranger</description>
+<beforeTime>2018-10-17T00:00</beforeTime>
+<status>1</status>
+</tache>
+</taches>
